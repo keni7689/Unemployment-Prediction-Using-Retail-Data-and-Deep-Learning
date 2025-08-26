@@ -1,4 +1,3 @@
-Here's a **professional and concise `README.md`** file for your GitHub project, summarizing what you've done and the skills used:
 
 ---
 
@@ -98,4 +97,3 @@ unemployment-prediction/
 
 ---
 
-Let me know if you'd like a version of this README with badges, screenshots, or deployment instructions!
